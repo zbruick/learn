@@ -1,0 +1,6 @@
+Python Learning Plan
+
+1. Array indexing
+2. Practice using "pass" in if/elif statements
+3.
+4.
