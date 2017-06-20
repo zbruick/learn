@@ -1,3 +1,5 @@
 This is a test file for using git.
 Today is 6/20/17. 
 This is all new to me.
+
+I am making a change to this document to track with git.
